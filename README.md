@@ -8,6 +8,9 @@ HTML , CSS , JAVASCRIPT
 1. json 데이터 생성 및 사용
 2. 버튼을 이용한 필터 기능
 
+# 기능
+버튼을 눌러 원하는 데이터만을 필터하여 보여준다.
+
 # ScreenShot
 ## Main
 
